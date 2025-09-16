@@ -1,7 +1,7 @@
 # Trabajos de Datos Dashboard / Power Bi
 ## Introducción
 
-![Dashboard Page 1](/Imagenes/Pagina%201.png)
+![Dashboard Page 1](C:\Users\User\Documents\Laboral\Power BI\Curso\Dashboards\Imagenes)
 
 Este dashboard ha sido desarrollado con Power BI para ofrecer una **visión integral** del mercado de empleos relacionados con datos, permitiendo explorar de forma interactiva la disponibilidad y características de las ofertas laborales en este sector.
 
