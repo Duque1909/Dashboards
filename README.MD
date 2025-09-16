@@ -36,7 +36,7 @@ Este dashboard ha sido desarrollado con Power BI para ofrecer una **visión inte
 
 Esta primera página ofrece una vista panorámica de las ofertas laborales disponibles, presentando indicadores clave como la cantidad total de vacantes, su distribución geográfica, tipos de modalidad laboral (presencial, remota, híbrida), y los rangos salariales tanto anuales como por hora. Está orientada a ofrecer al usuario una comprensión general del panorama de empleos en el área de datos.
 
-![Dashboard Page 1](/Imagenes/Pagina%201.png)
+![Dashboard Page 1](https://github.com/Duque1909/Dashboards/blob/main/Pagina%201.png)
 
 ## Página 2 – Análisis detallado por título de trabajo (Drill Through)
 
@@ -47,4 +47,5 @@ La segunda página actúa como un drill through, permitiendo al usuario hacer cl
 - Tipo de contrato y modalidad laboral asociada.
 - Tendencias o características específicas del rol.
 
-![Dashboard Page 2](/Imagenes/Pagina%202.png)
+![Dashboard Page 2](https://github.com/Duque1909/Dashboards/blob/main/Pagina%202.png)
+
