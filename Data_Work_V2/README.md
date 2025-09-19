@@ -1,32 +1,12 @@
-# 📊 Introducción
+# Trabajos de Datos Dashboard / Power Bi 
 
-Bienvenidos a mi portafolio de Power BI, un espacio donde presento una selección de proyectos desarrollados con el objetivo de transformar datos en información clara, útil y visualmente comprensible. Cada dashboard que encontrarás aquí ha sido diseñado para facilitar la toma de decisiones a través de análisis interactivos, visualizaciones dinámicas y estructuras intuitivas.
+## 📊 Introducción al dashboard: Análisis avanzado del mercado laboral en datos
+![Dashboard Page 1](/Data_Work_V2/Dashboard.png)
 
-# Dashboards Presentes
-
-## Trabajos Relacionados con Datos Version Inicial
-
-![Dashboard Page 1](/Data_Work_v1/Imagenes/Pagina%201.png)
-
-![Dashboard Page 1](/Pagina%202.png)
-
-## Habilidades Tecnicas Aplicadas
-
-**🔄 Power Query**
-
-**🧭Interactividad y navegación**
-
-**🧮 Modelado de datos y DAX**
-
-**🔢 Uso de KPIs**
-
-#### [**🚪 Ver el Dashboard Completo**](/Data_Work_v1/README.MD)
-
-## Trabajos Relacionados con Datos Version Avanzada
 
 Este dashboard interactivo presenta un análisis detallado del mercado laboral en el sector de datos, con un enfoque específico en la **mediana de los salarios anuales**, la **mediana del pago por hora** y las **habilidades más demandadas** en las ofertas de empleo. A diferencia de versiones anteriores, este informe incorpora una estructura más robusta y dinámica, diseñada para proporcionar al usuario un mayor nivel de personalización y profundidad analítica.
 
-![Dashboard Page 1](/Data_Work_V2/Dashboard.png)
+Desde el punto de vista técnico, el desarrollo del dashboard implicó el uso de herramientas avanzadas dentro de Power BI, como la creación de **parámetros dinámicos**, **medidas personalizadas con DAX**, y la implementación de **modelos de datos complejos** mediante el uso de **merges**, **appends** y la **construcción de tablas auxiliares**. Esto permitió estructurar una vista más flexible del conjunto de datos y ofrecer filtros que se adaptan a diferentes enfoques de análisis.
 
 ## 🛠️ Habilidades implementadas en el desarrollo del dashboard
 
@@ -38,5 +18,3 @@ Este dashboard interactivo presenta un análisis detallado del mercado laboral e
 - 🧭 Diseño de una **navegación intuitiva** con botones, bookmarks y estructuras jerárquicas.
 - 🌎 Optimización del modelo para permitir **comparación por regiones, cargos y tipos de pago**.
 - ⭐ Aplicación de **buenas prácticas de visualización** con tarjetas KPI
-
-#### [**🚪 Ver el Dashboard Completo**](/Data_Work_V2/README.md)
