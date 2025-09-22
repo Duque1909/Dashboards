@@ -1,5 +1,3 @@
-# Trabajos de Datos Dashboard / Power Bi 
-
 ## 📊 Introducción al dashboard: Análisis avanzado del mercado laboral en datos
 ![Dashboard Page 1](/Data_Work_V2/Dashboard.png)
 
@@ -18,3 +16,9 @@ Desde el punto de vista técnico, el desarrollo del dashboard implicó el uso de
 - 🧭 Diseño de una **navegación intuitiva** con botones, bookmarks y estructuras jerárquicas.
 - 🌎 Optimización del modelo para permitir **comparación por regiones, cargos y tipos de pago**.
 - ⭐ Aplicación de **buenas prácticas de visualización** con tarjetas KPI
+
+## ✅ Conclusión
+
+Este dashboard avanzado no solo proporciona una visión profunda del mercado laboral en el sector de datos, sino que también demuestra el potencial de Power BI como herramienta de análisis estratégico. A través de una combinación de visualizaciones intuitivas, filtros dinámicos y lógica personalizada, el informe permite a los usuarios explorar con detalle las condiciones laborales, identificar tendencias salariales y entender la demanda de habilidades en distintas regiones y roles.
+
+El proyecto destaca por su estructura técnica sólida, incluyendo el uso de parámetros, modelos de datos enriquecidos y segmentaciones interactivas, lo cual facilita una exploración personalizada del contenido. En conjunto, este trabajo representa una solución de inteligencia de negocios eficiente, escalable y centrada en la toma de decisiones informadas dentro del contexto laboral actual.

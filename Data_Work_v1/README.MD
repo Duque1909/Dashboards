@@ -1,7 +1,7 @@
-# Trabajos de Datos Dashboard / Power Bi
+
 ## Introducción
 
-![Dashboard Page 1](/Pagina%201.png)
+![Dashboard Page 1](/Data_Work_V1/Imagenes/Pagina%201.png)
 
 Este dashboard ha sido desarrollado con Power BI para ofrecer una **visión integral** del mercado de empleos relacionados con datos, permitiendo explorar de forma interactiva la disponibilidad y características de las ofertas laborales en este sector.
 
@@ -36,7 +36,7 @@ Este dashboard ha sido desarrollado con Power BI para ofrecer una **visión inte
 
 Esta primera página ofrece una vista panorámica de las ofertas laborales disponibles, presentando indicadores clave como la cantidad total de vacantes, su distribución geográfica, tipos de modalidad laboral (presencial, remota, híbrida), y los rangos salariales tanto anuales como por hora. Está orientada a ofrecer al usuario una comprensión general del panorama de empleos en el área de datos.
 
-![Dashboard Page 1](/Pagina%201.png)
+![Dashboard Page 1](/Data_Work_V1/Imagenes/Pagina%201.png)
 
 ## Página 2 – Análisis detallado por título de trabajo (Drill Through)
 
@@ -47,5 +47,8 @@ La segunda página actúa como un drill through, permitiendo al usuario hacer cl
 - Tipo de contrato y modalidad laboral asociada.
 - Tendencias o características específicas del rol.
 
-![Dashboard Page 2](/Pagina%202.png)
+![Dashboard Page 2](/Data_Work_V1/Imagenes/Pagina%202.png)
 
+## ✅ Conclusión
+
+Este dashboard proporciona una herramienta analítica sólida para comprender el comportamiento del mercado laboral en el ámbito de los datos. Gracias a su estructura interactiva, visualmente clara y respaldada
